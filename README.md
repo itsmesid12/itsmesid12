@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML,DL and Datascience
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on any above domin projects
-- 📫 email: @ramsiddu2002@gmail.com
+- 📫 email: ramsiddu2002@gmail.com
 
 <!---
 itsmesid12/itsmesid12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
