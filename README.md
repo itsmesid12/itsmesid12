@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sriram Sidharth
+- 👋 Hi, I’m Sriram S R
 - 👀 I’m interested in ML,DL
 - 💞️ I’m looking to collaborate on any above domin projects
 - 📫 email: ramsiddu2002@gmail.com
