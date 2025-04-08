@@ -54,19 +54,10 @@ Welcome to my digital workspace! I'm a passionate engineer and researcher with a
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmesid12&show_icons=true&theme=radical" alt="Sriram's GitHub stats" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sriram-sidhartha-r)
-- 🧠 [Portfolio/Blog](https://sriram-ai.dev) *(if applicable)*
-- 📬 Email: sriram.ai.dev [at] gmail [dot] com
+- 📬 Email: ramsiddu2002@gmail.com
 
 ---
 
