@@ -24,7 +24,7 @@ Welcome to my digital workspace! I'm a passionate engineer and researcher with a
 - **Backend Development**: Python (FastAPI, Flask), REST APIs, Microservices
 - **Frontend**: React, React Native (Expo), Angular
 - **DevOps & Deployment**: Docker, GitLab, Nginx, SSL, Production-grade API deployment
-- **Cloud**: Azure AI, GCP, Firebase, Azure Functions
+- **Cloud**: AWS, Azure AI, GCP, Firebase, Azure Functions
 
 ### 🧪 Projects & Products
 - **Rose** – Voice Assistant with live transcription (React Native + AWS Transcribe)
