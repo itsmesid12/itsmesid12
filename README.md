@@ -28,9 +28,9 @@ Welcome to my digital workspace! I'm a passionate engineer and researcher with a
 
 ### 🧪 Projects & Products
 - **Rose** – Voice Assistant with live transcription (React Native + AWS Transcribe)
-- **QueryX** – Smart AI Call Analyst for businesses
-- **SageBedrock** – AI Data Analyst with LLM + RAG capabilities
-- **Realtime Kafka Function** – Trigger Azure Function with Kafka message events
+- **Callibre** – Smart AI Call Analyst for businesses
+- **QueryX** – AI Data Analyst with LLM + RAG capabilities
+- **Aperta AI** – Mutli-model supporting platform
 
 ### 📚 Research & Development
 - Published works in **Computer Vision and NLP**
