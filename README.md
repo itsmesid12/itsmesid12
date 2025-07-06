@@ -54,6 +54,12 @@ Welcome to my digital workspace! I'm a passionate engineer and researcher with a
 
 ---
 
+## 📈 Analytics
+
+![Alt](https://repobeats.axiom.co/api/embed/e4cd45504e42a3ab98834d6adb8467fe87595d67.svg "Repobeats analytics image")
+
+---
+
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sriram-sidhartha-r)
